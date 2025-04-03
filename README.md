@@ -3,7 +3,7 @@
 # What is ProxyChanger?
 ProxyChanger is a lightweight command-line utility that automatically fetches, tests, and applies HTTP proxies on a rotating schedule.
 
-It's designed to seamlessly integrate with the Fish shell environment variables system, making it easy to maintain anonymity or overcome geo-restrictions during web browsing or API usage.
+It's designed to seamlessly integrate with the Fish shell environment variables system, making it easy to maintain anonymity or overcome geo-restrictions.
 
 # Features
 - Automatic proxy discovery: Fetches fresh proxy lists from ProxyScrape API
