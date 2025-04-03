@@ -9,7 +9,7 @@
 #define MAX_PROXIES 100
 #define BUFFER_SIZE 20000
 #define SWITCH_TIME 1200 // 20 minutes
-#define FISH_CONFIG_PATH "/home/maxi/.config/fish/config.fish" // Cambia "maxi" por tu usuario
+#define FISH_CONFIG_PATH "/home/User/.config/fish/config.fish"
 
 typedef struct {
     char ip[50];
